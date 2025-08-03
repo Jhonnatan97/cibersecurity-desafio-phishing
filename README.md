@@ -18,4 +18,4 @@
 
 ### Resultados
 
-![Alt text](./passwd.png "Captura de credenciais")
+![Alt text](./phishing.png "Captura de credenciais")
